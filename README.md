@@ -22,7 +22,7 @@
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
-Meu projeto ajuda estudantes inteli a configurarem seus githubs.
+Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 <br><br>
 May the force be with you!
 <br><br>
