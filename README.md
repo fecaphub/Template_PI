@@ -5,23 +5,25 @@
 </p>
 
 # Nome do Projeto
-
+OverHungry
 ## Nome do Grupo
+OverHungry
+## Integrantes: Fabiano Henrique Chou, Eduardo Chen Zou, Henrique Wu, André dos Santos Gregório
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
-
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: Fabiano Alves Onça/ Gilles Pedrosa Leite 
 
 ## Descrição
 
-<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
+![Jogo-OverHungry](https://github.com/fecaphub/Template_PI/assets/168005595/a6149499-c013-4d92-a324-d21705854027)
 
+<p align="center">
+<img src="![Jogo-OverHungry](https://github.com/fecaphub/Template_PI/assets/168005595/a6149499-c013-4d92-a324-d21705854027)" alt="OverHungry" border="0">
+  Game by <">Fabiano Henrique Chou, Eduardo Chen Zou, Henrique Wu, André dos Santos Gregório</a> 
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
+
+Nosso jogo foi inspirado em Overcooked; criamos uma réplica desse jogo. Dentro do jogo, as receitas aparecem no canto esquerdo da tela, e você precisa completá-las antes que o tempo acabe.
+
 Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 <br><br>
 May the force be with you!
@@ -116,6 +118,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 📋 Licença/License
 
+OverHungry © 2024 by Fecap, Fabiano Henrique Chou, Eduardo Chen Zou, Henrique Wu, André dos Santos Gregório is licensed under Creative Commons Attribution 4.0 International 
 
 ## 🎓 Referências
 
